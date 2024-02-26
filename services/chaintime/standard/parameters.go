@@ -14,7 +14,7 @@
 package standard
 
 import (
-	eth2client "github.com/attestantio/go-eth2-client"
+	eth2client "github.com/chorusone/go-eth2-client"
 	"github.com/pkg/errors"
 	"github.com/rs/zerolog"
 )

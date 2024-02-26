@@ -25,9 +25,9 @@ import (
 	"strings"
 	"time"
 
-	consensusclient "github.com/attestantio/go-eth2-client"
-	apiv1 "github.com/attestantio/go-eth2-client/api/v1"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	consensusclient "github.com/chorusone/go-eth2-client"
+	apiv1 "github.com/chorusone/go-eth2-client/api/v1"
+	"github.com/chorusone/go-eth2-client/spec/phase0"
 	"github.com/pkg/errors"
 	"github.com/prysmaticlabs/go-ssz"
 	"github.com/wealdtech/ethdo/beacon"

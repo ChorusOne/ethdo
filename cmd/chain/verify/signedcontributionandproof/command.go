@@ -17,9 +17,9 @@ import (
 	"context"
 	"time"
 
-	eth2client "github.com/attestantio/go-eth2-client"
-	api "github.com/attestantio/go-eth2-client/api/v1"
-	"github.com/attestantio/go-eth2-client/spec/altair"
+	eth2client "github.com/chorusone/go-eth2-client"
+	api "github.com/chorusone/go-eth2-client/api/v1"
+	"github.com/chorusone/go-eth2-client/spec/altair"
 	"github.com/pkg/errors"
 	"github.com/spf13/viper"
 )

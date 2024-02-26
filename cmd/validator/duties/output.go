@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	api "github.com/attestantio/go-eth2-client/api/v1"
+	api "github.com/chorusone/go-eth2-client/api/v1"
 	"github.com/pkg/errors"
 )
 

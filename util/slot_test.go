@@ -18,7 +18,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/chorusone/go-eth2-client/spec/phase0"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/require"
 	standardchaintime "github.com/wealdtech/ethdo/services/chaintime/standard"

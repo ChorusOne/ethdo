@@ -17,8 +17,8 @@ import (
 	"context"
 	"testing"
 
-	eth2client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
+	eth2client "github.com/chorusone/go-eth2-client"
+	"github.com/chorusone/go-eth2-client/api"
 	"github.com/stretchr/testify/require"
 	"github.com/wealdtech/ethdo/testutil"
 	"github.com/wealdtech/ethdo/util"

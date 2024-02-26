@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"os"
 
-	spec "github.com/attestantio/go-eth2-client/spec/phase0"
+	spec "github.com/chorusone/go-eth2-client/spec/phase0"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 	"github.com/wealdtech/ethdo/util"

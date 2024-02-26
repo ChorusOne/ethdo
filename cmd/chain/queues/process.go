@@ -17,8 +17,8 @@ import (
 	"context"
 	"fmt"
 
-	eth2client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
+	eth2client "github.com/chorusone/go-eth2-client"
+	"github.com/chorusone/go-eth2-client/api"
 	"github.com/pkg/errors"
 	standardchaintime "github.com/wealdtech/ethdo/services/chaintime/standard"
 	"github.com/wealdtech/ethdo/util"

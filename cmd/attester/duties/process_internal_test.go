@@ -18,8 +18,8 @@ import (
 	"os"
 	"testing"
 
-	eth2client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/auto"
+	eth2client "github.com/chorusone/go-eth2-client"
+	"github.com/chorusone/go-eth2-client/auto"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/require"
 	standardchaintime "github.com/wealdtech/ethdo/services/chaintime/standard"

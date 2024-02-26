@@ -18,7 +18,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/attestantio/go-eth2-client/auto"
+	"github.com/chorusone/go-eth2-client/auto"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/require"
 )

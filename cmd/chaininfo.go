@@ -19,9 +19,9 @@ import (
 	"os"
 	"time"
 
-	eth2client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	spec "github.com/attestantio/go-eth2-client/spec/phase0"
+	eth2client "github.com/chorusone/go-eth2-client"
+	"github.com/chorusone/go-eth2-client/api"
+	spec "github.com/chorusone/go-eth2-client/spec/phase0"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 	"github.com/wealdtech/ethdo/util"

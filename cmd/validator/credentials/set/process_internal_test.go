@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/attestantio/go-eth2-client/spec/bellatrix"
-	capella "github.com/attestantio/go-eth2-client/spec/capella"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/chorusone/go-eth2-client/spec/bellatrix"
+	capella "github.com/chorusone/go-eth2-client/spec/capella"
+	"github.com/chorusone/go-eth2-client/spec/phase0"
 	"github.com/stretchr/testify/require"
 	"github.com/wealdtech/ethdo/beacon"
 	e2types "github.com/wealdtech/go-eth2-types/v2"

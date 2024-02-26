@@ -17,11 +17,11 @@ import (
 	"context"
 	"time"
 
-	eth2client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	apiv1 "github.com/attestantio/go-eth2-client/api/v1"
-	"github.com/attestantio/go-eth2-client/spec"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	eth2client "github.com/chorusone/go-eth2-client"
+	"github.com/chorusone/go-eth2-client/api"
+	apiv1 "github.com/chorusone/go-eth2-client/api/v1"
+	"github.com/chorusone/go-eth2-client/spec"
+	"github.com/chorusone/go-eth2-client/spec/phase0"
 )
 
 // GenesisProvider is a mock for eth2client.GenesisProvider.

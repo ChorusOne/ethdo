@@ -18,8 +18,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	eth2client "github.com/attestantio/go-eth2-client"
-	api "github.com/attestantio/go-eth2-client/api/v1"
+	eth2client "github.com/chorusone/go-eth2-client"
+	api "github.com/chorusone/go-eth2-client/api/v1"
 	"github.com/pkg/errors"
 )
 

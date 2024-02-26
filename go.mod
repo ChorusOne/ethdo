@@ -3,8 +3,8 @@ module github.com/wealdtech/ethdo
 go 1.20
 
 require (
-	github.com/attestantio/go-eth2-client v0.19.10
-	github.com/ferranbt/fastssz v0.1.3
+	github.com/chorusone/go-eth2-client v0.19.11-0.20240226145350-ddc0b1eba751
+	github.com/ferranbt/fastssz v0.1.4-0.20240117155353-be958d20c2b3
 	github.com/gofrs/uuid v4.4.0+incompatible
 	github.com/google/uuid v1.5.0
 	github.com/hako/durafmt v0.0.0-20210608085754-5c1018a4e16b

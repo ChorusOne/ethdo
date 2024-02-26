@@ -17,7 +17,7 @@ package chaintime
 // 	"context"
 // 	"testing"
 //
-// 	api "github.com/attestantio/go-eth2-client/api/v1"
+// 	api "github.com/chorusone/go-eth2-client/api/v1"
 // 	"github.com/stretchr/testify/require"
 // 	"github.com/wealdtech/ethdo/testutil"
 // )

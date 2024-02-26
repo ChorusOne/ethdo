@@ -21,8 +21,8 @@ import (
 	"strings"
 	"time"
 
-	eth2client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/http"
+	eth2client "github.com/chorusone/go-eth2-client"
+	"github.com/chorusone/go-eth2-client/http"
 	"github.com/pkg/errors"
 	"github.com/rs/zerolog"
 )
